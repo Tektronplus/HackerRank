@@ -11,3 +11,4 @@ These are my solutions to coding problems of HackerRank.
 | Algorithms | Implementation | Climbing the Leaderboard |
 | Algorithms | Implementation | Forming a Magic Square |
 | Algorithms | Implementation | Queen's Attack II |
+| Algorithms | Implementation | Encryption |
