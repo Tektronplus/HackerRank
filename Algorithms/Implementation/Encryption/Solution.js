@@ -29,8 +29,3 @@ function encryption(s) {
     let result = encryptedArray.join(' ');
     return result;
 }
-
-encryption("haveaniceday");
-encryption("feedthedog");
-encryption("chillout");
-encryption("if child is a man is not a man");
